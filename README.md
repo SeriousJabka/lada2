@@ -1,4 +1,3 @@
-# ladaa2
 # lada2
 
 ![1](https://user-images.githubusercontent.com/50837842/58712134-a8c9b500-83c8-11e9-94a2-aa0867ebba5c.jpg)
